@@ -51,14 +51,23 @@ T-Distributed Stochastic Neighbor Embedding
 Cluster Profiling & Sample
 -- 
 Cluster 1: Roadtrip Playlist: High in danceability, energy, and speechiness (lyrical)
+
 https://open.spotify.com/playlist/0iFXC0s8nqMKvBGXCsLpR5?si=VahgckKKSymo2sWLEqSYmA
+
 Cluster 2: Time to Relax: high in acousticness, danceabillity, and energy
+
 https://open.spotify.com/playlist/472Rwu3iNXCN41yUTi9efG?si=X4t-mSCFSkGFnOISbL7JHA
+
 Cluster 3: Let's Party: High in both danceability and energy
+
 https://open.spotify.com/playlist/3Uq0IGWpDSO5YLtYEvDVk2?si=cE48dKZFTvqfi4noUJhn2g
+
 Cluster 4: Energy Booster: Highest in energy
+
 https://open.spotify.com/playlist/170hEWj2iCX8PdCSUXlez3?si=LZCAQp5oTjidUi0wcuJeag
+
 Cluster 5: GoodMorning: Great songs to wake up and get you motivated (High instrumentalness and energy)
+
 https://open.spotify.com/playlist/0bLwx8AshIUjm0ysyk7MRo?si=5LvKpJZRR1CqvVgPM-eq7Q
 
 
