@@ -8,4 +8,7 @@ Objective: Extract the data from Spotify API, Clean and Preprocess, Visualize da
 
 https://newsroom.spotify.com/2019-12-03/the-top-songs-artists-playlists-and-podcasts-of-2019-and-the-last-decade/
 
+Findings 
+------
+Pending 
 
