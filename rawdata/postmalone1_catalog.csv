@@ -1,0 +1,67 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Broken Whiskey Glass,Stoney (Deluxe),Post Malone,2016-12-09,233813,1,0.352,0.327,0.352,0.689,2.21e-06,0.13,-7.308,0.0616,99.746,4
+1,Big Lie,Stoney (Deluxe),Post Malone,2016-12-09,207680,12,0.432,0.184,0.432,0.686,0.0,0.0722,-4.937,0.197,170.86,4
+2,Deja Vu,Stoney (Deluxe),Post Malone,2016-12-09,234213,1,0.62,0.102,0.62,0.701,0.0,0.117,-6.535,0.0451,133.904,4
+3,No Option,Stoney (Deluxe),Post Malone,2016-12-09,179826,2,0.549,0.0845,0.549,0.724,0.0,0.256,-5.048,0.121,167.993,4
+4,Cold,Stoney (Deluxe),Post Malone,2016-12-09,268933,0,0.658,0.627,0.658,0.571,5.27e-06,0.103,-7.697,0.0432,132.993,4
+5,White Iverson,Stoney (Deluxe),Post Malone,2016-12-09,256533,4,0.679,0.216,0.679,0.565,0.0,0.0797,-7.654,0.035,130.079,4
+6,I Fall Apart,Stoney (Deluxe),Post Malone,2016-12-09,223346,3,0.572,0.068,0.572,0.557,0.0,0.2,-5.346,0.0407,143.908,4
+7,Patient,Stoney (Deluxe),Post Malone,2016-12-09,194333,12,0.5,0.544,0.5,0.651,0.0,0.129,-6.224,0.316,89.996,4
+8,Go Flex,Stoney (Deluxe),Post Malone,2016-12-09,179613,4,0.668,0.253,0.668,0.49,0.0,0.0718,-8.274,0.119,81.985,4
+9,Feel,Stoney (Deluxe),Post Malone,2016-12-09,197120,1,0.581,0.244,0.581,0.498,5.41e-06,0.077,-8.279,0.0527,120.018,4
+10,Too Young,Stoney (Deluxe),Post Malone,2016-12-09,237146,12,0.606,0.293,0.606,0.631,7.95e-05,0.0834,-6.475,0.0607,123.018,4
+11,Congratulations,Stoney (Deluxe),Post Malone,2016-12-09,220293,4,0.624,0.182,0.624,0.806,0.0,0.299,-4.271,0.0364,123.117,4
+12,Up There,Stoney (Deluxe),Post Malone,2016-12-09,194826,1,0.651,0.415,0.651,0.37,1.2e-05,0.0923,-8.223,0.0311,72.944,4
+13,"Yours Truly, Austin Post",Stoney (Deluxe),Post Malone,2016-12-09,219146,0,0.649,0.45,0.649,0.655,1.28e-06,0.168,-5.757,0.0654,126.026,4
+14,Leave,Stoney (Deluxe),Post Malone,2016-12-09,324853,2,0.538,0.226,0.538,0.576,7.35e-05,0.132,-7.161,0.0231,90.09,4
+15,Hit This Hard,Stoney (Deluxe),Post Malone,2016-12-09,249026,1,0.623,0.292,0.623,0.564,0.00225,0.0837,-8.951,0.0553,140.03,4
+16,Money Made Me Do It,Stoney (Deluxe),Post Malone,2016-12-09,224960,12,0.575,0.324,0.575,0.43,0.0,0.0673,-6.526,0.238,120.105,3
+17,Feeling Whitney,Stoney (Deluxe),Post Malone,2016-12-09,257266,14,0.433,0.81,0.433,0.223,3.67e-06,0.229,-12.616,0.0375,81.03,4
+18,Burning Man,Burning Man,watt,2017-01-18,197506,55,0.572,0.00906,0.572,0.88,1.08e-06,0.0513,-2.782,0.0603,158.16,4
+19,The Meaning,First Time For Everything (Part 1),FKi 1st,2016-05-20,225007,56,0.678,0.0949,0.678,0.455,0.0,0.0798,-10.393,0.0905,144.029,4
+20,Paranoid,beerbongs & bentleys,Post Malone,2018-04-27,221786,77,0.625,0.038,0.625,0.536,2.31e-05,0.167,-5.428,0.0776,159.914,4
+21,Spoil My Night (feat. Swae Lee),beerbongs & bentleys,Post Malone,2018-04-27,194560,75,0.672,0.341,0.672,0.717,2.4e-05,0.106,-2.714,0.034,160.981,4
+22,Rich & Sad,beerbongs & bentleys,Post Malone,2018-04-27,206453,76,0.599,0.198,0.599,0.571,0.0,0.0969,-4.998,0.0665,151.974,4
+23,Zack And Codeine,beerbongs & bentleys,Post Malone,2018-04-27,204360,74,0.738,0.15,0.738,0.824,0.0,0.132,-5.165,0.0437,138.039,4
+24,Takin' Shots,beerbongs & bentleys,Post Malone,2018-04-27,216746,73,0.762,0.61,0.762,0.621,0.0,0.464,-6.24,0.0866,120.056,4
+25,rockstar (feat. 21 Savage),beerbongs & bentleys,Post Malone,2018-04-27,218146,88,0.585,0.124,0.585,0.52,7.01e-05,0.131,-6.136,0.0712,159.801,4
+26,Over Now,beerbongs & bentleys,Post Malone,2018-04-27,246986,76,0.569,0.139,0.569,0.777,0.0,0.132,-4.041,0.0834,164.027,4
+27,Psycho (feat. Ty Dolla $ign),beerbongs & bentleys,Post Malone,2018-04-27,221440,84,0.75,0.546,0.75,0.56,0.0,0.111,-8.094,0.105,140.06,4
+28,Better Now,beerbongs & bentleys,Post Malone,2018-04-27,231266,87,0.68,0.331,0.68,0.578,0.0,0.135,-5.804,0.04,145.038,4
+29,Ball For Me (feat. Nicki Minaj),beerbongs & bentleys,Post Malone,2018-04-27,206266,76,0.797,0.513,0.797,0.55,0.0,0.0786,-4.166,0.24,134.206,4
+30,Otherside,beerbongs & bentleys,Post Malone,2018-04-27,228226,74,0.652,0.318,0.652,0.643,2.87e-06,0.208,-5.667,0.0353,104.932,4
+31,Stay,beerbongs & bentleys,Post Malone,2018-04-27,204426,80,0.507,0.449,0.507,0.48,0.0,0.147,-5.418,0.0266,86.046,4
+32,Blame It On Me,beerbongs & bentleys,Post Malone,2018-04-27,261800,73,0.652,0.145,0.652,0.591,5.65e-06,0.164,-7.274,0.0418,121.873,4
+33,Same Bitches (feat. G-Eazy & YG),beerbongs & bentleys,Post Malone,2018-04-27,212466,74,0.731,0.434,0.731,0.774,3.34e-06,0.114,-5.273,0.0555,100.005,4
+34,Jonestown (Interlude),beerbongs & bentleys,Post Malone,2018-04-27,112013,64,0.38,0.755,0.38,0.454,0.623,0.263,-10.271,0.0362,77.592,4
+35,92 Explorer,beerbongs & bentleys,Post Malone,2018-04-27,211426,76,0.798,0.265,0.798,0.733,1.25e-06,0.114,-4.811,0.0476,146.046,4
+36,Candy Paint,beerbongs & bentleys,Post Malone,2018-04-27,227533,81,0.664,0.64,0.664,0.667,1.22e-06,0.0753,-5.941,0.154,180.064,4
+37,Sugar Wraith,beerbongs & bentleys,Post Malone,2018-04-27,228146,74,0.606,0.262,0.606,0.775,0.0,0.1,-4.269,0.0671,164.02,4
+38,Candy Paint,Fast & Furious 8: The Album,Various Artists,2017-04-14,229053,52,0.672,0.604,0.672,0.684,0.0,0.081,-5.468,0.158,180.008,4
+39,Ball For Me (feat. Nicki Minaj),Summer Of Hip Hop,Various Artists,2018-06-22,206540,0,0.764,0.477,0.764,0.532,0.0,0.0712,-4.179,0.309,134.027,4
+40,Tryna F**k Me (feat. Post Malone),The Kanan Tape,Various Artists,2016-01-22,157368,50,0.817,0.0739,0.817,0.608,0.0,0.0977,-8.45,0.273,119.986,4
+41,"Embarrassed (feat. Post Malone, Riff Raff & Lil B)",East Atlanta Santa 2,Gucci Mane,2015-12-25,260139,32,0.811,0.0356,0.811,0.348,0.0,0.0911,-10.184,0.438,142.91,4
+42,Sunflower - Spider-Man: Into the Spider-Verse,Sunflower (Spider-Man: Into the Spider-Verse),Post Malone,2018-10-18,158053,25,0.753,0.551,0.753,0.498,0.0,0.0706,-5.61,0.0504,89.95,4
+43,"Camera (feat. 1st FKI, Lil Uzi Vert, Mac Miller, and Post Malone)",Quality Street Music 2,DJ Drama,2016-07-22,328346,59,0.522,0.109,0.522,0.483,0.0,0.116,-7.622,0.303,100.132,4
+44,all my friends,i am > i was,21 Savage,2018-12-21,211785,73,0.713,0.171,0.713,0.62,1.16e-06,0.118,-4.513,0.0422,130.09,4
+45,Wow. - Remix,Wow. (Remix),Post Malone,2019-03-15,170053,74,0.797,0.148,0.797,0.64,0.0,0.209,-6.272,0.194,100.002,4
+46,Too Late,"Tha Truth, Pt. 3",Trae Tha Truth,2017-07-21,243840,36,0.524,0.492,0.524,0.682,2.83e-06,0.107,-4.936,0.128,86.707,4
+47,Celebrate (feat. Travis Scott & Post Malone),Father Of Asahd,DJ Khaled,2019-05-17,206498,71,0.362,0.269,0.362,0.714,0.0,0.21,-3.07,0.0835,67.4,4
+48,Hollywood's Bleeding,Hollywood's Bleeding,Post Malone,2019-09-06,156266,63,0.405,0.331,0.405,0.646,0.0,0.103,-3.206,0.0476,130.218,4
+49,Saint-Tropez,Hollywood's Bleeding,Post Malone,2019-09-06,150866,65,0.617,0.0545,0.617,0.684,0.0,0.104,-3.618,0.0439,132.113,4
+50,Enemies (feat. DaBaby),Hollywood's Bleeding,Post Malone,2019-09-06,196760,63,0.542,0.0588,0.542,0.674,0.0,0.0955,-4.169,0.21,76.388,4
+51,Allergic,Hollywood's Bleeding,Post Malone,2019-09-06,156893,60,0.665,0.154,0.665,0.741,3.02e-05,0.345,-3.694,0.0787,144.968,4
+52,A Thousand Bad Times,Hollywood's Bleeding,Post Malone,2019-09-06,221173,61,0.632,0.105,0.632,0.732,1.15e-05,0.111,-3.498,0.092,159.0,4
+53,Circles,Hollywood's Bleeding,Post Malone,2019-09-06,215280,66,0.695,0.192,0.695,0.762,0.00244,0.0863,-3.497,0.0395,120.042,4
+54,Die For Me (feat. Future & Halsey),Hollywood's Bleeding,Post Malone,2019-09-06,245266,62,0.614,0.19,0.614,0.66,0.0,0.211,-2.848,0.0441,145.01,4
+55,On The Road (feat. Meek Mill & Lil Baby),Hollywood's Bleeding,Post Malone,2019-09-06,218320,61,0.442,0.0589,0.442,0.737,0.0,0.102,-5.046,0.109,112.93,5
+56,Take What You Want (feat. Ozzy Osbourne & Travis Scott),Hollywood's Bleeding,Post Malone,2019-09-06,229573,63,0.499,0.0906,0.499,0.8,0.0,0.147,-2.665,0.0502,139.919,4
+57,I'm Gonna Be,Hollywood's Bleeding,Post Malone,2019-09-06,200680,59,0.746,0.703,0.746,0.559,0.0,0.148,-4.008,0.0316,117.943,4
+58,Staring At The Sun (feat. SZA),Hollywood's Bleeding,Post Malone,2019-09-06,168280,59,0.724,0.248,0.724,0.772,0.0,0.308,-4.389,0.184,95.074,4
+59,Sunflower - Spider-Man: Into the Spider-Verse,Hollywood's Bleeding,Post Malone,2019-09-06,157560,59,0.755,0.533,0.755,0.522,0.0,0.0685,-4.368,0.0575,89.96,4
+60,Internet,Hollywood's Bleeding,Post Malone,2019-09-06,123386,57,0.469,0.841,0.469,0.489,0.0,0.103,-6.071,0.0314,74.013,4
+61,Goodbyes (feat. Young Thug),Hollywood's Bleeding,Post Malone,2019-09-06,174853,63,0.548,0.456,0.548,0.653,0.0,0.103,-3.875,0.081,150.068,4
+62,Myself,Hollywood's Bleeding,Post Malone,2019-09-06,158120,58,0.476,0.102,0.476,0.701,0.0,0.242,-4.234,0.0349,163.882,4
+63,I Know,Hollywood's Bleeding,Post Malone,2019-09-06,141413,57,0.666,0.497,0.666,0.603,0.0,0.112,-5.671,0.0763,102.94,4
+64,Wow.,Hollywood's Bleeding,Post Malone,2019-09-06,149546,59,0.829,0.136,0.829,0.539,1.78e-06,0.103,-7.359,0.208,99.96,4
+65,Writing on the Wall (feat. Post Malone & Cardi B),Writing on the Wall (feat. Post Malone & Cardi B),French Montana,2019-09-27,201270,84,0.773,0.283,0.773,0.836,2.1e-05,0.0828,-2.326,0.153,112.01,4

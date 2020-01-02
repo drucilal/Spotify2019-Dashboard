@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,imagine,"thank u, next",Ariana Grande,2019-02-08,212266,78,0.729,0.378,0.729,0.475,0.0,0.12,-4.985,0.0364,62.52,3
+1,needy,"thank u, next",Ariana Grande,2019-02-08,171573,78,0.647,0.78,0.647,0.309,7.41e-06,0.202,-7.948,0.0366,87.045,4
+2,NASA,"thank u, next",Ariana Grande,2019-02-08,182000,77,0.747,0.451,0.747,0.458,0.0,0.252,-6.891,0.303,75.029,4
+3,bloodline,"thank u, next",Ariana Grande,2019-02-08,216893,76,0.758,0.0815,0.758,0.665,0.000157,0.216,-5.188,0.0774,151.976,4
+4,fake smile,"thank u, next",Ariana Grande,2019-02-08,208880,75,0.45,0.329,0.45,0.619,0.0,0.319,-7.412,0.372,83.3,4
+5,bad idea,"thank u, next",Ariana Grande,2019-02-08,267106,75,0.847,0.0268,0.847,0.579,0.0545,0.102,-5.314,0.0719,137.998,4
+6,make up,"thank u, next",Ariana Grande,2019-02-08,140693,72,0.671,0.0844,0.671,0.714,1.48e-06,0.0568,-5.373,0.21,105.137,3
+7,ghostin,"thank u, next",Ariana Grande,2019-02-08,271466,74,0.287,0.418,0.287,0.364,1.8e-05,0.185,-8.295,0.0306,103.777,4
+8,in my head,"thank u, next",Ariana Grande,2019-02-08,222946,75,0.662,0.173,0.662,0.6,0.000137,0.109,-6.402,0.0703,134.979,4
+9,7 rings,"thank u, next",Ariana Grande,2019-02-08,178626,90,0.778,0.592,0.778,0.317,0.0,0.0881,-10.732,0.334,140.048,4
+10,"thank u, next","thank u, next",Ariana Grande,2019-02-08,207320,88,0.717,0.229,0.717,0.653,0.0,0.101,-5.634,0.0658,106.966,4
+11,"break up with your girlfriend, i'm bored","thank u, next",Ariana Grande,2019-02-08,190440,85,0.726,0.0421,0.726,0.554,0.0,0.106,-5.29,0.0917,169.999,4
+12,raindrops (an angel cried),Sweetener,Ariana Grande,2018-08-17,37640,69,0.336,0.942,0.336,0.231,0.0,0.188,-6.217,0.0497,168.685,5
+13,blazed (feat. Pharrell Williams),Sweetener,Ariana Grande,2018-08-17,196360,62,0.795,0.0793,0.795,0.759,0.0,0.0805,-6.348,0.0528,110.021,4
+14,the light is coming (feat. Nicki Minaj),Sweetener,Ariana Grande,2018-08-17,228373,68,0.877,0.0122,0.877,0.547,1.51e-05,0.028,-5.705,0.18,99.034,4
+15,R.E.M,Sweetener,Ariana Grande,2018-08-17,245666,71,0.831,0.375,0.831,0.485,1.47e-05,0.118,-6.677,0.15,80.022,4
+16,God is a woman,Sweetener,Ariana Grande,2018-08-17,197546,82,0.602,0.0233,0.602,0.658,6e-05,0.237,-5.934,0.0558,145.031,4
+17,sweetener,Sweetener,Ariana Grande,2018-08-17,208493,72,0.721,0.248,0.721,0.459,0.0,0.212,-6.408,0.032,119.914,4
+18,successful,Sweetener,Ariana Grande,2018-08-17,227386,70,0.847,0.107,0.847,0.603,7.4e-06,0.106,-4.607,0.0397,114.045,4
+19,everytime,Sweetener,Ariana Grande,2018-08-17,172106,72,0.71,0.186,0.71,0.614,0.0,0.0974,-6.757,0.0431,148.152,4
+20,breathin,Sweetener,Ariana Grande,2018-08-17,198160,80,0.568,0.0211,0.568,0.656,1.37e-05,0.213,-5.413,0.0433,100.049,4
+21,no tears left to cry,Sweetener,Ariana Grande,2018-08-17,205920,84,0.699,0.04,0.699,0.713,3.11e-06,0.294,-5.507,0.0594,121.993,4
+22,borderline (feat. Missy Elliott),Sweetener,Ariana Grande,2018-08-17,177533,63,0.761,0.058,0.761,0.818,0.0,0.11,-5.238,0.0978,110.99,4
+23,better off,Sweetener,Ariana Grande,2018-08-17,171333,70,0.597,0.216,0.597,0.524,0.0,0.112,-7.247,0.0537,92.568,4
+24,goodnight n go,Sweetener,Ariana Grande,2018-08-17,189506,72,0.708,0.0217,0.708,0.454,0.0,0.073,-7.07,0.0395,110.963,4
+25,pete davidson,Sweetener,Ariana Grande,2018-08-17,73813,69,0.652,0.43,0.652,0.31,1.16e-05,0.182,-10.212,0.0509,119.913,4
+26,get well soon,Sweetener,Ariana Grande,2018-08-17,322026,69,0.604,0.657,0.604,0.449,0.0,0.0932,-6.564,0.0353,100.355,4
+27,Moonlight,Dangerous Woman,Ariana Grande,2016-05-20,202360,7,0.368,0.416,0.368,0.402,2.66e-06,0.0498,-7.474,0.0398,204.045,3
+28,Dangerous Woman,Dangerous Woman,Ariana Grande,2016-05-20,235946,15,0.677,0.0612,0.677,0.604,0.0,0.353,-5.32,0.0385,134.052,3
+29,Be Alright,Dangerous Woman,Ariana Grande,2016-05-20,179293,4,0.813,0.198,0.813,0.468,0.0,0.128,-7.79,0.0739,108.768,4
+30,Into You,Dangerous Woman,Ariana Grande,2016-05-20,244453,19,0.636,0.0161,0.636,0.727,1.12e-06,0.151,-5.852,0.106,107.988,4
+31,Side To Side,Dangerous Woman,Ariana Grande,2016-05-20,226160,20,0.648,0.0408,0.648,0.738,0.0,0.292,-5.883,0.247,159.145,4
+32,Let Me Love You,Dangerous Woman,Ariana Grande,2016-05-20,223853,3,0.529,0.0274,0.529,0.445,0.0,0.265,-8.291,0.137,138.95,4
+33,Greedy,Dangerous Woman,Ariana Grande,2016-05-20,214906,3,0.631,0.0392,0.631,0.707,0.0,0.104,-5.273,0.0893,109.983,4
+34,Leave Me Lonely,Dangerous Woman,Ariana Grande,2016-05-20,229680,1,0.498,0.611,0.498,0.45,2.18e-05,0.344,-7.452,0.0318,90.569,3
+35,Everyday,Dangerous Woman,Ariana Grande,2016-05-20,194840,6,0.635,0.0192,0.635,0.738,0.0,0.15,-4.424,0.0519,130.971,4
+36,Sometimes,Dangerous Woman,Ariana Grande,2016-05-20,226666,1,0.359,0.09,0.359,0.66,0.0,0.343,-5.396,0.289,79.196,4
+37,I Don't Care,Dangerous Woman,Ariana Grande,2016-05-20,178026,1,0.581,0.737,0.581,0.408,3.54e-06,0.163,-8.225,0.0479,111.83,4
+38,Bad Decisions,Dangerous Woman,Ariana Grande,2016-05-20,226426,1,0.699,0.0144,0.699,0.649,0.0,0.266,-5.351,0.0433,131.957,4
+39,Touch It,Dangerous Woman,Ariana Grande,2016-05-20,260000,2,0.287,0.0338,0.287,0.7,0.0,0.18,-4.326,0.0499,202.317,4
+40,Knew Better / Forever Boy,Dangerous Woman,Ariana Grande,2016-05-20,299213,1,0.478,0.213,0.478,0.4,2.83e-06,0.098,-6.669,0.0698,106.517,4
+41,Thinking Bout You,Dangerous Woman,Ariana Grande,2016-05-20,200400,3,0.51,0.0144,0.51,0.69,0.000276,0.108,-5.991,0.0711,103.025,4
+42,Intro,My Everything (Deluxe),Ariana Grande,2014-08-22,79840,1,0.447,0.969,0.447,0.182,3.83e-05,0.327,-12.439,0.0324,89.814,4
+43,Problem,My Everything (Deluxe),Ariana Grande,2014-08-22,193920,12,0.66,0.0192,0.66,0.805,8.83e-06,0.159,-5.352,0.153,103.009,4
+44,One Last Time,My Everything (Deluxe),Ariana Grande,2014-08-22,197266,18,0.628,0.093,0.628,0.593,1.65e-06,0.096,-5.036,0.0323,125.026,4
+45,Why Try,My Everything (Deluxe),Ariana Grande,2014-08-22,211880,1,0.443,0.0494,0.443,0.663,0.0,0.153,-5.946,0.0432,159.856,4
+46,Break Free,My Everything (Deluxe),Ariana Grande,2014-08-22,214840,13,0.687,0.0064,0.687,0.702,4.35e-05,0.204,-5.324,0.0455,129.956,4
+47,Best Mistake,My Everything (Deluxe),Ariana Grande,2014-08-22,233733,3,0.654,0.546,0.654,0.578,0.0,0.112,-6.897,0.449,143.867,4
+48,Be My Baby,My Everything (Deluxe),Ariana Grande,2014-08-22,217053,1,0.622,0.0735,0.622,0.586,7.41e-06,0.0803,-6.241,0.0356,145.08,4
+49,Break Your Heart Right Back,My Everything (Deluxe),Ariana Grande,2014-08-22,253386,1,0.726,0.0113,0.726,0.605,0.0,0.0639,-5.673,0.0628,93.93,4
+50,Love Me Harder,My Everything (Deluxe),Ariana Grande,2014-08-22,236133,10,0.472,0.00937,0.472,0.714,0.0,0.0764,-4.389,0.0334,98.992,4
+51,Just A Little Bit Of Your Heart,My Everything (Deluxe),Ariana Grande,2014-08-22,232586,3,0.439,0.692,0.439,0.322,0.0,0.103,-5.959,0.028,77.963,4
+52,Hands On Me,My Everything (Deluxe),Ariana Grande,2014-08-22,192226,0,0.662,0.214,0.662,0.766,0.0,0.324,-5.694,0.0377,97.959,4
+53,My Everything,My Everything (Deluxe),Ariana Grande,2014-08-22,168520,2,0.54,0.88,0.54,0.265,0.0,0.131,-5.307,0.0297,61.975,4
+54,Bang Bang,My Everything (Deluxe),Ariana Grande,2014-08-22,199320,10,0.703,0.283,0.703,0.747,0.0,0.396,-4.446,0.0895,149.974,4
+55,Only 1,My Everything (Deluxe),Ariana Grande,2014-08-22,193986,0,0.656,0.5,0.656,0.842,0.0,0.0787,-5.714,0.24,101.364,4
+56,You Don't Know Me,My Everything (Deluxe),Ariana Grande,2014-08-22,233720,0,0.381,0.0453,0.381,0.631,0.0,0.129,-5.886,0.262,170.187,4
+57,Honeymoon Avenue,Yours Truly,Ariana Grande,2013-01-01,339733,62,0.692,0.218,0.692,0.608,0.0,0.348,-5.233,0.041,125.012,4
+58,Baby I,Yours Truly,Ariana Grande,2013-01-01,197600,60,0.725,0.0154,0.725,0.796,0.0,0.354,-3.684,0.0326,101.976,4
+59,Right There,Yours Truly,Ariana Grande,2013-01-01,247080,59,0.621,0.127,0.621,0.834,0.0,0.0854,-3.166,0.105,156.095,4
+60,Tattooed Heart,Yours Truly,Ariana Grande,2013-01-01,194706,62,0.536,0.41,0.536,0.521,0.0,0.142,-4.128,0.0274,72.06,4
+61,Lovin' It,Yours Truly,Ariana Grande,2013-01-01,180693,50,0.624,0.112,0.624,0.821,0.0,0.276,-3.844,0.0422,93.984,4
+62,Piano,Yours Truly,Ariana Grande,2013-01-01,234426,54,0.738,0.163,0.738,0.804,0.0,0.826,-4.286,0.0821,120.017,4
+63,Daydreamin',Yours Truly,Ariana Grande,2013-01-01,211293,53,0.675,0.233,0.675,0.643,0.0,0.561,-6.004,0.0315,114.051,3
+64,The Way,Yours Truly,Ariana Grande,2013-01-01,227026,68,0.645,0.294,0.645,0.877,0.0,0.0759,-3.208,0.113,82.324,4
+65,You’ll Never Know,Yours Truly,Ariana Grande,2013-01-01,214280,54,0.764,0.0546,0.764,0.842,0.0,0.0351,-3.835,0.059,105.018,4
+66,Almost Is Never Enough,Yours Truly,Ariana Grande,2013-01-01,327773,71,0.323,0.824,0.323,0.327,0.0,0.101,-7.494,0.0411,81.329,4
+67,Popular Song,Yours Truly,Ariana Grande,2013-01-01,200213,59,0.665,0.156,0.665,0.809,0.0,0.0613,-4.574,0.0464,99.029,4
+68,Better Left Unsaid,Yours Truly,Ariana Grande,2013-01-01,211226,49,0.585,0.0391,0.585,0.831,0.000144,0.104,-4.024,0.0334,130.059,4
+69,Intro,Christmas & Chill,Ariana Grande,2015-12-18,65693,8,0.609,0.00064,0.609,0.338,0.0,0.124,-11.826,0.0584,59.506,4
+70,Wit It This Christmas,Christmas & Chill,Ariana Grande,2015-12-18,161280,11,0.632,0.128,0.632,0.335,0.0,0.369,-8.245,0.0367,128.086,4
+71,December,Christmas & Chill,Ariana Grande,2015-12-18,116266,11,0.456,0.437,0.456,0.394,0.0,0.314,-11.303,0.354,179.152,4
+72,Not Just On Christmas,Christmas & Chill,Ariana Grande,2015-12-18,122760,9,0.356,0.248,0.356,0.265,2.92e-05,0.139,-7.891,0.0282,80.451,4
+73,True Love,Christmas & Chill,Ariana Grande,2015-12-18,166253,8,0.579,0.0763,0.579,0.361,1.98e-06,0.11,-7.416,0.0333,102.161,4
+74,Winter Things,Christmas & Chill,Ariana Grande,2015-12-18,158720,16,0.507,0.931,0.507,0.207,0.0,0.229,-10.215,0.0998,68.6,4
+75,Last Christmas,Christmas Kisses,Ariana Grande,2013-01-01,203653,17,0.677,0.126,0.677,0.791,0.0,0.102,-2.772,0.0272,102.986,4
+76,Love Is Everything,Christmas Kisses,Ariana Grande,2013-01-01,212786,10,0.56,0.113,0.56,0.93,0.0,0.276,-3.439,0.0912,180.053,4
+77,Snow In California,Christmas Kisses,Ariana Grande,2013-01-01,206373,21,0.647,0.256,0.647,0.544,0.0,0.346,-5.947,0.0446,134.922,4
+78,Santa Baby,Christmas Kisses,Ariana Grande,2013-01-01,170933,16,0.722,0.0603,0.722,0.778,0.0,0.282,-5.826,0.225,96.008,4
+79,Santa Tell Me,Santa Tell Me,Ariana Grande,2014-11-24,204093,39,0.464,0.0464,0.464,0.63,0.0,0.295,-7.337,0.182,132.96,5
+80,Focus,Focus,Ariana Grande,2015-10-30,211360,6,0.612,0.253,0.612,0.875,0.0,0.423,-6.032,0.351,99.882,4
+81,Jason's Song (Gave It Away),Jason's Song (Gave It Away),Ariana Grande,2016-09-16,264613,0,0.647,0.449,0.647,0.656,1.68e-05,0.0755,-4.323,0.0525,106.367,4
+82,7 rings (feat. 2 Chainz) - Remix,7 rings (Remix),Ariana Grande,2019-02-01,178640,57,0.78,0.517,0.78,0.341,0.0,0.0873,-10.162,0.465,70.011,4
+83,Side To Side - Slushii Remix,Side To Side (Remixes),Ariana Grande,2017-02-03,202440,1,0.554,0.095,0.554,0.867,5.83e-05,0.102,-2.79,0.053,150.066,4
+84,Side To Side - Phantoms Remix,Side To Side (Remixes),Ariana Grande,2017-02-03,256560,0,0.737,0.0226,0.737,0.739,1.47e-05,0.0384,-5.334,0.123,160.092,4
+85,Into You - Alex Ghenea Remix,Into You (Alex Ghenea Remix),Ariana Grande,2016-08-19,218160,0,0.65,0.0904,0.65,0.599,0.0,0.0803,-5.338,0.0455,119.951,4
+86,Into You - 3LAU Remix,Into You (3LAU Remix),Ariana Grande,2016-08-19,197146,2,0.617,0.0188,0.617,0.803,0.00136,0.183,-5.619,0.155,126.249,3
+87,Bang Bang - Dada Life Remix,Bang Bang (Remixes),Jessie J,2014-09-30,214386,36,0.742,0.00263,0.742,0.947,0.175,0.329,-4.398,0.0651,130.003,4
+88,Bang Bang - Kat Krazy Remix,Bang Bang (Remixes),Jessie J,2014-09-30,237453,31,0.759,0.0499,0.759,0.834,3.87e-06,0.0932,-3.754,0.116,128.026,4
+89,Bang Bang - 3LAU Remix,Bang Bang (Remixes),Jessie J,2014-09-30,186333,47,0.66,0.0162,0.66,0.874,2.1e-06,0.376,-3.337,0.0442,128.0,4
+90,Bang Bang - Imanos & Gramercy Remix,Bang Bang (Remixes),Jessie J,2014-09-30,224680,35,0.693,0.0365,0.693,0.866,0.00112,0.361,-4.448,0.0428,149.946,4
+91,Bang Bang - Super Stylers Remix,Bang Bang (Remixes),Jessie J,2014-09-30,213880,29,0.653,0.0122,0.653,0.934,0.00402,0.151,-4.586,0.0591,128.0,4
+92,Problem - Dawin Remix,Problem,Ariana Grande,2014-07-01,205853,34,0.744,0.0125,0.744,0.805,0.00215,0.0659,-5.167,0.0548,103.045,4
+93,Problem - Noodles & Devastator Remix,Problem,Ariana Grande,2014-07-01,192946,29,0.698,0.00421,0.698,0.874,0.0183,0.362,-3.524,0.0884,103.015,4
+94,Problem - Kassiano Remix,Problem,Ariana Grande,2014-07-01,261426,28,0.788,0.00386,0.788,0.919,0.0388,0.254,-3.506,0.107,105.008,4
+95,Bad To You (with Normani & Nicki Minaj),Charlie's Angels (Original Motion Picture Soundtrack),Various Artists,2019-11-01,171840,84,0.727,0.065,0.727,0.583,0.0,0.106,-7.385,0.0718,147.983,4
+96,Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey),Charlie's Angels (Original Motion Picture Soundtrack),Various Artists,2019-11-01,190066,85,0.644,0.00237,0.644,0.755,7.64e-06,0.0859,-5.325,0.0448,102.861,4
+97,Nobody (with Chaka Khan),Charlie's Angels (Original Motion Picture Soundtrack),Various Artists,2019-11-01,180280,67,0.331,0.0406,0.331,0.772,0.0,0.0847,-4.405,0.0907,207.75,4
+98,How I Look On You,Charlie's Angels (Original Motion Picture Soundtrack),Various Artists,2019-11-01,174426,72,0.407,0.2,0.407,0.52,0.000199,0.0878,-7.331,0.201,169.777,4
+99,Got Her Own (with Victoria Monét),Charlie's Angels (Original Motion Picture Soundtrack),Various Artists,2019-11-01,161573,69,0.555,0.0227,0.555,0.47,0.00842,0.107,-8.496,0.18,115.011,4

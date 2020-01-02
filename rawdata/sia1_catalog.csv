@@ -1,0 +1,51 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Cheap Thrills,This Is Acting,Sia,2016-01-29,211666,77,0.628,0.0472,0.628,0.698,0.00143,0.0907,-5.608,0.105,89.976,4
+1,Chandelier,1000 Forms Of Fear,Sia,2014-07-04,216120,80,0.399,0.0197,0.399,0.787,6.07e-05,0.0685,-2.88,0.0499,117.089,5
+2,Thunderclouds,Thunderclouds,Sia,2018-08-09,187026,23,0.691,0.0085,0.691,0.716,9.06e-06,0.263,-5.985,0.0351,112.035,4
+3,Elastic Heart,1000 Forms Of Fear,Sia,2014-07-04,257200,73,0.421,0.0117,0.421,0.791,1.48e-05,0.146,-4.998,0.0496,130.075,4
+4,The Greatest,This Is Acting (Deluxe Version),Sia,2016-10-21,210226,76,0.668,0.0102,0.668,0.725,0.000479,0.0561,-6.127,0.266,191.944,4
+5,Titanium (feat. Sia),Nothing but the Beat Ultimate,David Guetta,2011-08-26,245040,65,0.604,0.0679,0.604,0.787,0.15,0.127,-3.674,0.103,126.062,4
+6,Genius,Genius,Sia,2018-05-03,213040,16,0.622,0.0864,0.622,0.621,9.8e-05,0.121,-4.924,0.129,158.946,4
+7,Flames,Flames,David Guetta,2018-03-22,195000,77,0.609,0.0723,0.609,0.726,8.45e-06,0.0895,-4.346,0.0414,93.958,4
+8,Helium (Sia vs. David Guetta & Afrojack),Helium (Sia vs. David Guetta & Afrojack),Sia,2018-01-25,237372,65,0.542,0.0977,0.542,0.587,0.0,0.2,-6.145,0.035,136.915,4
+9,Audio,Audio,Sia,2018-05-10,203400,17,0.365,0.192,0.365,0.692,1.51e-06,0.0862,-4.586,0.0671,89.998,4
+10,Dusk Till Dawn - Radio Edit,Dusk Till Dawn (Radio Edit),ZAYN,2017-09-07,239000,83,0.258,0.101,0.258,0.437,1.27e-06,0.106,-6.593,0.039,180.043,4
+11,Move Your Body - Single Mix,Move Your Body,Sia,2017-01-06,252080,64,0.664,0.00151,0.664,0.883,0.0926,0.072,-3.406,0.0353,127.962,4
+12,"Helium - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",Fifty Shades Darker (Original Motion Picture Soundtrack),Various Artists,2017-02-10,252320,19,0.409,0.461,0.409,0.413,0.0,0.0765,-6.722,0.0296,137.02,4
+13,Never Give Up,"Never Give Up (From ""Lion"" Soundtrack)",Sia,2016-11-18,221986,68,0.568,0.00497,0.568,0.936,0.0138,0.12,-2.961,0.053,91.009,4
+14,Waterfall,Waterfall,Stargate,2017-03-10,200029,63,0.372,0.0987,0.372,0.919,0.0,0.234,-1.68,0.3,182.785,4
+15,Wild Ones (feat. Sia),Wild Ones,Flo Rida,2012-06-22,232946,76,0.608,0.0991,0.608,0.86,0.0,0.262,-5.324,0.0554,127.075,4
+16,Alive,This Is Acting,Sia,2016-01-29,263520,60,0.508,0.254,0.508,0.762,0.000122,0.108,-4.217,0.0489,99.963,4
+17,Breathe Me,Colour The Small One,Sia,2004-01-01,272800,69,0.552,0.0364,0.552,0.643,0.74,0.105,-7.36,0.0327,120.012,4
+18,She Wolf (Falling to Pieces) (feat. Sia),Nothing but the Beat 2.0,David Guetta,2011-08-26,222500,54,0.492,0.0841,0.492,0.857,7.82e-06,0.344,-2.634,0.0655,129.973,4
+19,Big Girls Cry,1000 Forms Of Fear,Sia,2014-07-04,210613,64,0.469,0.0393,0.469,0.592,0.0,0.105,-4.962,0.0399,161.996,4
+20,Bird Set Free,This Is Acting,Sia,2016-01-29,252440,59,0.438,0.0115,0.438,0.805,0.000667,0.133,-4.284,0.0728,150.174,4
+21,Beautiful Pain,The Marshall Mathers LP2 (Deluxe),Eminem,2013-11-05,265025,11,0.682,0.0665,0.682,0.813,0.0,0.136,-4.549,0.443,165.439,4
+22,Unstoppable,This Is Acting,Sia,2016-01-29,217746,63,0.468,0.112,0.468,0.779,0.000373,0.101,-4.839,0.0779,173.799,4
+23,I Love It,Drinking From The Sun,Hilltop Hoods,2012-01-01,226413,10,0.683,0.00486,0.683,0.87,0.0,0.334,-6.19,0.0714,90.998,4
+24,Angel By The Wings,Angel By The Wings,Sia,2016-12-02,319200,63,0.522,0.294,0.522,0.53,5.19e-05,0.0997,-4.812,0.033,104.039,4
+25,California Dreamin',San Andreas: Original Motion Picture Soundtrack,Andrew Lockington,2015-05-12,216146,12,0.291,0.275,0.291,0.635,2.69e-05,0.334,-6.846,0.0371,111.852,4
+26,The Girl You Lost To Cocaine,Some People Have REAL Problems,Sia,2008-01-01,160240,7,0.669,0.00922,0.669,0.693,0.000114,0.0614,-5.018,0.0451,110.392,4
+27,Fire Meet Gasoline,1000 Forms Of Fear,Sia,2014-07-04,241493,63,0.418,0.00598,0.418,0.764,0.0,0.149,-3.307,0.0559,175.669,3
+28,Golden (feat. Sia),Golden (feat. Sia),Travie McCoy,2015-06-15,215142,58,0.602,0.0142,0.602,0.739,0.0,0.371,-5.655,0.0601,82.008,4
+29,Eye of the Needle,1000 Forms Of Fear,Sia,2014-07-04,248746,57,0.495,0.141,0.495,0.7,0.0,0.102,-5.639,0.144,144.426,4
+30,Clap Your Hands,We Are Born,Sia,2010-06-18,238466,55,0.699,0.000532,0.699,0.87,0.0219,0.359,-4.925,0.0546,120.033,4
+31,"Salted Wound - From ""Fifty Shades Of Grey"" Soundtrack","Salted Wound (From The"" Fifty Shades Of Grey"" Soundtrack)",Sia,2015-01-27,271333,59,0.372,0.798,0.372,0.354,0.00149,0.0848,-10.775,0.0277,82.023,4
+32,Guts Over Fear,Guts Over Fear,Eminem,2014-08-25,300386,56,0.655,0.328,0.655,0.859,0.0,0.248,-4.277,0.221,140.049,4
+33,Soon We'll Be Found,Some People Have REAL Problems,Sia,2008-01-01,260120,7,0.513,0.22,0.513,0.561,0.000307,0.236,-5.586,0.0339,129.923,3
+34,Unforgettable,Finding Dory (Original Motion Picture Soundtrack),Thomas Newman,2016-06-17,197946,6,0.174,0.9,0.174,0.252,0.0298,0.172,-11.925,0.0358,180.994,4
+35,Satisfied (feat. Miguel & Queen Latifah),Satisfied (feat. Miguel & Queen Latifah) [from The Hamilton Mixtape],Sia,2016-11-11,318390,55,0.58,0.497,0.58,0.544,0.0,0.168,-7.636,0.0697,123.984,4
+36,Battle Cry,Dirty Gold (Deluxe),Angel Haze,2013-01-01,292097,6,0.469,0.0129,0.469,0.859,0.0,0.216,-6.683,0.315,160.378,4
+37,Rainbow (From The Original Motion Picture Soundtrack 'My Little Pony: The Movie'),Rainbow (From The Original Motion Picture Soundtrack 'My Little Pony: The Movie'),Sia,2017-09-15,197026,43,0.532,0.292,0.532,0.864,0.0,0.0671,-2.978,0.137,81.873,4
+38,I'm In Here,We Are Born,Sia,2010-06-18,221320,57,0.564,0.0582,0.564,0.784,1.03e-05,0.114,-5.347,0.0568,147.82,4
+39,Like a River Runs,"Terrible Thrills, Vol. 2",Bleachers,2015-09-28,237586,55,0.255,0.84,0.255,0.243,2.36e-06,0.187,-11.194,0.0384,89.258,1
+40,You've Changed,We Are Born,Sia,2010-06-18,191186,51,0.671,7.99e-05,0.671,0.825,0.52,0.147,-5.673,0.034,119.996,4
+41,Burn the Pages,1000 Forms of Fear,Sia,2014-07-04,195146,34,0.507,0.0497,0.507,0.811,3.32e-05,0.121,-4.645,0.155,180.081,4
+42,You're Never Fully Dressed Without a Smile (2014 Film Version),You're Never Fully Dressed Without a Smile (2014 Film Version),Sia,2014-10-22,190373,55,0.499,0.00333,0.499,0.964,0.0,0.111,-4.796,0.238,100.509,4
+43,Broken Glass (Live from The Village),Spotify Sessions,Sia,2016-04-08,311266,30,0.392,0.939,0.392,0.324,6.24e-06,0.134,-7.005,0.0293,141.042,4
+44,Free the Animal,1000 Forms of Fear (Deluxe Version),Sia,2015-05-08,264866,31,0.674,0.0559,0.674,0.877,0.000112,0.0836,-4.945,0.167,109.038,4
+45,Buttons,Some People Have Real Problems,Sia,2008,194607,33,0.686,0.00111,0.686,0.736,0.0632,0.209,-5.603,0.0308,115.007,4
+46,Waving Goodbye,The Neon Demon (Original Motion Picture Soundtrack),Cliff Martinez,2016-06-24,237319,42,0.496,0.0863,0.496,0.716,1.35e-05,0.3,-5.473,0.0449,127.96,4
+47,Paranoid Android,Exit Music: Songs With Radio Heads,Various Artists,2006-04-28,374560,50,0.248,0.958,0.248,0.261,0.17,0.114,-11.573,0.0358,143.547,4
+48,Bring Night,We Are Born (ARIA Awards Edition),Sia,2010-11-05,177410,32,0.673,0.00846,0.673,0.893,0.00159,0.0716,-3.443,0.0826,139.875,4
+49,Kill And Run,Music From Baz Luhrmann's Film The Great Gatsby (International Streaming Version),Various Artists,2013-01-01,215866,50,0.152,0.639,0.152,0.334,6.95e-05,0.115,-4.735,0.0306,71.728,4

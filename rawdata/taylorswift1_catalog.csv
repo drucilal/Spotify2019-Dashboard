@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Lover - First Dance Remix,Lover (First Dance Remix),Taylor Swift,2019-11-26,233466,64,0.506,0.687,0.506,0.425,1.08e-06,0.158,-8.198,0.0343,68.449,4
+1,Lover (Remix) [feat. Shawn Mendes],Lover (Remix) [feat. Shawn Mendes],Taylor Swift,2019-11-13,221306,88,0.448,0.433,0.448,0.603,0.0,0.0862,-7.176,0.064,205.272,3
+2,"Beautiful Ghosts - From The Motion Picture Soundtrack ""Cats""","Beautiful Ghosts (From The Motion Picture ""Cats"")",Taylor Swift,2019-11-15,261061,70,0.368,0.85,0.368,0.238,0.0,0.0974,-8.976,0.0599,187.05,3
+3,I Forgot That You Existed,Lover,Taylor Swift,2019-08-23,170640,82,0.664,0.298,0.664,0.316,2.03e-06,0.0812,-10.345,0.519,92.875,4
+4,Cruel Summer,Lover,Taylor Swift,2019-08-23,178426,82,0.552,0.117,0.552,0.702,2.06e-05,0.105,-5.707,0.157,169.994,4
+5,Lover,Lover,Taylor Swift,2019-08-23,221306,88,0.359,0.492,0.359,0.543,1.58e-05,0.118,-7.582,0.0919,68.534,4
+6,The Man,Lover,Taylor Swift,2019-08-23,190360,83,0.777,0.0767,0.777,0.658,0.0,0.0901,-5.191,0.054,110.048,4
+7,The Archer,Lover,Taylor Swift,2019-08-23,211240,79,0.292,0.12,0.292,0.574,0.00569,0.0663,-9.375,0.0401,124.344,4
+8,I Think He Knows,Lover,Taylor Swift,2019-08-23,173386,78,0.897,0.00889,0.897,0.366,0.000353,0.0715,-8.029,0.0569,100.003,4
+9,Miss Americana & The Heartbreak Prince,Lover,Taylor Swift,2019-08-23,234146,78,0.662,0.028,0.662,0.747,0.00615,0.138,-6.926,0.0736,150.088,4
+10,Paper Rings,Lover,Taylor Swift,2019-08-23,222400,79,0.811,0.0129,0.811,0.719,1.36e-05,0.0742,-6.553,0.0497,103.979,4
+11,Cornelia Street,Lover,Taylor Swift,2019-08-23,287266,78,0.824,0.781,0.824,0.624,0.000189,0.1,-9.728,0.0827,102.012,4
+12,Death By A Thousand Cuts,Lover,Taylor Swift,2019-08-23,198533,77,0.712,0.454,0.712,0.732,0.0,0.319,-6.754,0.0629,94.071,4
+13,London Boy,Lover,Taylor Swift,2019-08-23,190240,78,0.695,0.0246,0.695,0.71,0.000104,0.133,-6.639,0.05,157.925,4
+14,Soon You’ll Get Better (feat. Dixie Chicks),Lover,Taylor Swift,2019-08-23,201586,74,0.433,0.907,0.433,0.182,0.0,0.123,-12.566,0.0641,207.476,4
+15,False God,Lover,Taylor Swift,2019-08-23,200306,76,0.739,0.736,0.739,0.32,0.000147,0.111,-10.862,0.239,79.97,4
+16,You Need To Calm Down,Lover,Taylor Swift,2019-08-23,171360,88,0.771,0.00929,0.771,0.671,0.0,0.0637,-5.617,0.0553,85.026,4
+17,Afterglow,Lover,Taylor Swift,2019-08-23,223293,77,0.756,0.13,0.756,0.449,0.0,0.114,-8.746,0.0344,111.011,4
+18,ME! (feat. Brendon Urie of Panic! At The Disco),Lover,Taylor Swift,2019-08-23,193000,86,0.61,0.033,0.61,0.83,0.0,0.118,-4.105,0.0571,182.162,4
+19,It’s Nice To Have A Friend,Lover,Taylor Swift,2019-08-23,150440,73,0.737,0.971,0.737,0.175,0.000337,0.171,-9.912,0.0401,70.008,4
+20,Daylight,Lover,Taylor Swift,2019-08-23,293453,75,0.557,0.808,0.557,0.496,0.000173,0.0772,-9.602,0.0563,149.983,4
+21,Lover,Lover,Taylor Swift,2019-08-16,221306,59,0.359,0.492,0.359,0.543,1.58e-05,0.118,-7.582,0.0919,68.534,4
+22,You Need To Calm Down - Clean Bandit Remix,You Need To Calm Down (Clean Bandit Remix),Taylor Swift,2019-08-20,152773,57,0.726,0.072,0.726,0.88,0.000462,0.0906,-4.137,0.0581,95.037,4
+23,The Archer,The Archer,Taylor Swift,2019-07-23,211280,52,0.292,0.12,0.292,0.574,0.00569,0.0663,-9.375,0.0401,124.344,4
+24,You Need To Calm Down,You Need To Calm Down,Taylor Swift,2019-06-14,171386,61,0.769,0.00838,0.769,0.678,0.0,0.0596,-5.604,0.0507,85.025,4
+25,ME! (feat. Brendon Urie of Panic! At The Disco),ME!,Taylor Swift,2019-04-26,193040,34,0.614,0.0291,0.614,0.839,0.0,0.112,-4.143,0.0702,182.123,4
+26,...Ready For It?,reputation,Taylor Swift,2017-11-10,208186,70,0.613,0.0527,0.613,0.764,0.0,0.197,-6.509,0.136,160.015,4
+27,Blank Space,1989 (Deluxe Edition),Taylor Swift,2014-10-27,231826,60,0.76,0.103,0.76,0.703,0.0,0.0913,-5.412,0.054,95.997,4
+28,Bad Blood,Bad Blood,Taylor Swift,2015-05-17,200106,65,0.654,0.0294,0.654,0.655,0.0,0.139,-7.388,0.106,170.16,4
+29,Shake It Off,1989 (Deluxe Edition),Taylor Swift,2014-10-27,219200,58,0.647,0.0647,0.647,0.8,0.0,0.334,-5.384,0.165,160.078,4
+30,You Belong With Me,Fearless Platinum Edition,Taylor Swift,2008-11-11,231146,56,0.687,0.164,0.687,0.771,2.46e-05,0.112,-4.424,0.0384,129.964,4
+31,We Are Never Ever Getting Back Together,Red (Deluxe Edition),Taylor Swift,2012-10-22,191880,59,0.628,0.00957,0.628,0.676,2.65e-05,0.102,-5.911,0.0916,85.984,4
+32,Mean,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,237733,54,0.568,0.452,0.568,0.761,0.0,0.217,-3.987,0.0459,163.974,4
+33,I Knew You Were Trouble.,Red (Deluxe Edition),Taylor Swift,2012-10-22,217973,59,0.622,0.00454,0.622,0.469,2.25e-06,0.0398,-6.798,0.0363,77.019,4
+34,22,Red (Deluxe Edition),Taylor Swift,2012-10-22,230133,61,0.658,0.00215,0.658,0.729,0.0013,0.0752,-6.561,0.0378,104.007,4
+35,End Game,reputation,Taylor Swift,2017-11-10,244826,70,0.649,0.00845,0.649,0.589,0.0,0.108,-6.237,0.0558,159.073,4
+36,The Story Of Us,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,265666,54,0.543,0.00478,0.543,0.818,0.000368,0.0357,-3.611,0.0398,139.898,4
+37,Style,1989 (Deluxe Edition),Taylor Swift,2014-10-27,231000,58,0.588,0.00245,0.588,0.791,0.00258,0.118,-5.595,0.0402,94.933,4
+38,Speak Now,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,240760,54,0.709,0.095,0.709,0.599,0.0,0.0973,-3.734,0.0304,118.975,4
+39,Out Of The Woods,1989 (Deluxe Edition),Taylor Swift,2014-10-27,235800,56,0.553,0.000743,0.553,0.841,1.19e-05,0.341,-6.937,0.0396,92.008,4
+40,Wildest Dreams,1989 (Deluxe Edition),Taylor Swift,2014-10-27,220440,57,0.55,0.0692,0.55,0.688,0.00144,0.106,-7.416,0.0897,139.997,4
+41,Love Story,Fearless Platinum Edition,Taylor Swift,2008-11-11,235280,54,0.618,0.157,0.618,0.736,0.0,0.073,-3.937,0.0308,118.982,4
+42,I Don’t Wanna Live Forever (Fifty Shades Darker),Fifty Shades Darker (Original Motion Picture Soundtrack),Various Artists,2017-02-10,245653,72,0.734,0.0594,0.734,0.442,1.63e-05,0.213,-8.432,0.0557,117.967,4
+43,Picture To Burn,Taylor Swift,Taylor Swift,2006-10-24,173066,61,0.658,0.173,0.658,0.877,0.0,0.0962,-2.098,0.0323,105.586,4
+44,Ours,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,237920,56,0.608,0.537,0.608,0.569,0.0,0.097,-7.227,0.0284,159.845,4
+45,All Too Well,Red (Deluxe Edition),Taylor Swift,2012-10-22,327893,62,0.602,0.0382,0.602,0.609,0.0002,0.127,-7.803,0.0243,93.06,4
+46,White Horse,Fearless Platinum Edition,Taylor Swift,2008-11-11,234440,50,0.585,0.302,0.585,0.346,0.0,0.102,-8.014,0.0256,92.564,4
+47,Look What You Made Me Do,reputation,Taylor Swift,2017-11-10,211853,70,0.766,0.204,0.766,0.709,1.41e-05,0.126,-6.471,0.123,128.07,4
+48,Mine,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,230706,56,0.624,0.00265,0.624,0.757,1.87e-06,0.189,-2.94,0.0296,121.07,4
+49,Delicate,reputation,Taylor Swift,2017-11-10,232253,76,0.75,0.216,0.75,0.404,0.000357,0.0911,-10.178,0.0682,95.045,4
+50,Our Song,Taylor Swift,Taylor Swift,2006-10-24,201106,65,0.668,0.111,0.668,0.672,0.0,0.329,-4.931,0.0303,89.011,4
+51,Fearless,Fearless Platinum Edition,Taylor Swift,2008-11-11,242000,49,0.598,0.0364,0.598,0.714,1.04e-06,0.31,-4.397,0.0273,99.979,4
+52,Sparks Fly,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,260933,57,0.605,0.0396,0.605,0.787,1.42e-06,0.163,-3.002,0.0308,114.987,4
+53,Should've Said No,Taylor Swift,Taylor Swift,2006-10-24,242200,56,0.476,0.0103,0.476,0.777,0.0,0.196,-3.771,0.0289,167.964,4
+54,Fifteen,Fearless Platinum Edition,Taylor Swift,2008-11-11,294346,49,0.559,0.0728,0.559,0.636,0.0,0.144,-4.4,0.0263,95.485,4
+55,Getaway Car,reputation,Taylor Swift,2017-11-10,233626,67,0.562,0.00465,0.562,0.689,2.23e-06,0.0888,-6.745,0.127,172.054,4
+56,Today Was A Fairytale - US Version,Today Was A Fairytale,Taylor Swift,2010-01-01,241813,44,0.485,0.0284,0.485,0.717,5.63e-06,0.14,-4.54,0.0321,158.047,4
+57,Back To December,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,293026,57,0.529,0.117,0.529,0.67,0.0,0.334,-4.663,0.0303,141.893,4
+58,Safe & Sound - from The Hunger Games Soundtrack,The Hunger Games: Songs From District 12 And Beyond,Various Artists,2012-01-01,240066,66,0.472,0.883,0.472,0.3,1.04e-05,0.0698,-10.807,0.028,144.317,4
+59,Tim McGraw,Taylor Swift,Taylor Swift,2006-10-24,232106,59,0.58,0.575,0.58,0.491,0.0,0.121,-6.462,0.0251,76.009,4
+60,Gorgeous,reputation,Taylor Swift,2017-11-10,209680,67,0.8,0.0713,0.8,0.535,9.48e-06,0.213,-6.684,0.135,92.027,4
+61,I Did Something Bad,reputation,Taylor Swift,2017-11-10,238253,68,0.696,0.0679,0.696,0.602,2.11e-05,0.0696,-6.156,0.159,82.989,4
+62,Don’t Blame Me,reputation,Taylor Swift,2017-11-10,236413,67,0.615,0.106,0.615,0.534,1.76e-05,0.0607,-6.719,0.0386,135.917,4
+63,So It Goes...,reputation,Taylor Swift,2017-11-10,227906,63,0.574,0.122,0.574,0.61,1.1e-06,0.13,-7.283,0.0732,74.957,4
+64,King Of My Heart,reputation,Taylor Swift,2017-11-10,214320,65,0.675,0.00882,0.675,0.703,2.21e-06,0.0391,-7.902,0.0382,110.01,4
+65,Dancing With Our Hands Tied,reputation,Taylor Swift,2017-11-10,211506,64,0.624,0.0604,0.624,0.691,1.1e-05,0.138,-6.686,0.196,160.024,4
+66,Dress,reputation,Taylor Swift,2017-11-10,230373,65,0.719,0.0329,0.719,0.469,0.0,0.169,-8.792,0.0533,120.085,4
+67,This Is Why We Can’t Have Nice Things,reputation,Taylor Swift,2017-11-10,207133,64,0.567,0.0156,0.567,0.789,0.0,0.382,-5.986,0.115,163.96,4
+68,Call It What You Want,reputation,Taylor Swift,2017-11-10,203506,66,0.598,0.186,0.598,0.504,0.000221,0.34,-9.874,0.0731,163.954,4
+69,New Year’s Day,reputation,Taylor Swift,2017-11-10,235466,64,0.661,0.921,0.661,0.151,0.0,0.13,-12.864,0.0354,94.922,4
+70,Welcome To New York,1989 (Deluxe Edition),Taylor Swift,2014-10-27,212600,53,0.789,0.0348,0.789,0.634,1.64e-06,0.302,-4.762,0.0323,116.992,4
+71,All You Had To Do Was Stay,1989 (Deluxe Edition),Taylor Swift,2014-10-27,193293,53,0.605,0.00201,0.605,0.725,2.02e-05,0.101,-5.729,0.0323,96.97,4
+72,I Wish You Would,1989 (Deluxe Edition),Taylor Swift,2014-10-27,207440,51,0.653,0.0158,0.653,0.893,4.95e-05,0.102,-5.966,0.0538,118.035,4
+73,Bad Blood,1989 (Deluxe Edition),Taylor Swift,2014-10-27,211933,53,0.646,0.0885,0.646,0.794,6.16e-06,0.201,-6.104,0.19,170.216,4
+74,How You Get The Girl,1989 (Deluxe Edition),Taylor Swift,2014-10-27,247533,52,0.765,0.00364,0.765,0.656,0.00868,0.0918,-6.112,0.0504,119.997,4
+75,This Love,1989 (Deluxe Edition),Taylor Swift,2014-10-27,250093,51,0.481,0.678,0.481,0.435,0.0,0.0928,-8.795,0.0321,143.95,4
+76,I Know Places,1989 (Deluxe Edition),Taylor Swift,2014-10-27,195706,51,0.602,0.245,0.602,0.755,0.0,0.178,-4.991,0.071,159.965,4
+77,Clean,1989 (Deluxe Edition),Taylor Swift,2014-10-27,271000,54,0.815,0.232,0.815,0.377,0.0,0.1,-7.754,0.0346,103.97,4
+78,Wonderland,1989 (Deluxe Edition),Taylor Swift,2014-10-27,245560,55,0.422,0.0493,0.422,0.692,2.57e-05,0.177,-5.447,0.0549,184.014,4
+79,You Are In Love,1989 (Deluxe Edition),Taylor Swift,2014-10-27,267106,56,0.474,0.707,0.474,0.48,0.000108,0.0903,-8.894,0.0622,170.109,4
+80,New Romantics,1989 (Deluxe Edition),Taylor Swift,2014-10-27,230466,58,0.633,0.00463,0.633,0.889,0.000458,0.0658,-5.87,0.0715,121.956,4
+81,State Of Grace,Red (Deluxe Edition),Taylor Swift,2012-10-22,295186,55,0.588,0.000197,0.588,0.825,0.00138,0.0885,-5.882,0.0328,129.968,4
+82,Red,Red (Deluxe Edition),Taylor Swift,2012-10-22,220826,61,0.602,0.0773,0.602,0.896,8.87e-05,0.091,-4.267,0.0437,124.978,4
+83,Treacherous,Red (Deluxe Edition),Taylor Swift,2012-10-22,240773,55,0.705,0.101,0.705,0.621,4.3e-06,0.147,-8.086,0.0334,109.993,4
+84,I Almost Do,Red (Deluxe Edition),Taylor Swift,2012-10-22,242573,55,0.567,0.0173,0.567,0.481,4.13e-05,0.182,-7.357,0.027,145.865,4
+85,Stay Stay Stay,Red (Deluxe Edition),Taylor Swift,2012-10-22,204826,55,0.729,0.307,0.729,0.748,1.29e-06,0.09,-6.67,0.0245,99.981,4
+86,The Last Time,Red (Deluxe Edition),Taylor Swift,2012-10-22,298293,55,0.505,0.035,0.505,0.443,3.15e-06,0.0921,-7.039,0.0276,94.069,4
+87,Holy Ground,Red (Deluxe Edition),Taylor Swift,2012-10-22,201853,55,0.627,0.0162,0.627,0.816,0.00208,0.0966,-6.698,0.0774,157.043,4
+88,Sad Beautiful Tragic,Red (Deluxe Edition),Taylor Swift,2012-10-22,283680,53,0.624,0.632,0.624,0.34,0.0337,0.121,-12.411,0.029,129.987,3
+89,Everything Has Changed,Red (Deluxe Edition),Taylor Swift,2012-10-22,243933,57,0.624,0.36,0.624,0.458,3.89e-06,0.303,-6.755,0.0287,80.017,4
+90,Starlight,Red (Deluxe Edition),Taylor Swift,2012-10-22,217826,53,0.649,0.0213,0.649,0.777,0.000335,0.221,-5.804,0.0406,126.018,4
+91,Begin Again,Red (Deluxe Edition),Taylor Swift,2012-10-22,237613,55,0.53,0.199,0.53,0.526,3.52e-06,0.232,-8.349,0.0263,79.025,4
+92,Come Back...Be Here,Red (Deluxe Edition),Taylor Swift,2012-10-22,222706,54,0.483,0.00471,0.483,0.548,2.01e-06,0.0997,-6.291,0.0254,79.926,4
+93,Girl At Home,Red (Deluxe Edition),Taylor Swift,2012-10-22,220320,50,0.733,0.272,0.733,0.59,0.0,0.136,-5.86,0.0284,125.048,4
+94,The Lucky One,Red (Deluxe Edition),Taylor Swift,2012-10-22,240133,53,0.706,0.0371,0.706,0.499,0.0,0.132,-7.675,0.0369,117.937,4
+95,The Moment I Knew,Red (Deluxe Edition),Taylor Swift,2012-10-22,285560,53,0.62,0.187,0.62,0.506,1.47e-05,0.102,-7.327,0.0312,126.015,4
+96,State Of Grace - Acoustic Version,Red (Deluxe Edition),Taylor Swift,2012-10-22,323080,51,0.626,0.664,0.626,0.118,0.000169,0.127,-15.91,0.0305,105.597,4
+97,Treacherous - Original Demo Recording,Red (Deluxe Edition),Taylor Swift,2012-10-22,239720,49,0.828,0.175,0.828,0.64,6.14e-05,0.0996,-8.248,0.0355,109.993,4
+98,Red - Original Demo Recording,Red (Deluxe Edition),Taylor Swift,2012-10-22,226280,49,0.678,0.113,0.678,0.902,0.000235,0.0722,-4.659,0.0358,124.998,4
+99,Dear John,Speak Now (Deluxe Edition),Taylor Swift,2010-10-25,403920,55,0.589,0.166,0.589,0.47,1.45e-06,0.112,-5.32,0.028,119.386,3

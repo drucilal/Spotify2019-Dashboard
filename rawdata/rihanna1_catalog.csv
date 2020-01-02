@@ -1,0 +1,37 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Diamonds,Unapologetic (Deluxe),Rihanna,2012-12-11,225146,74,0.564,0.00125,0.564,0.71,0.0,0.109,-4.92,0.0461,91.972,4
+1,Bitch Better Have My Money,Bitch Better Have My Money,Rihanna,2015-03-26,219305,15,0.781,0.0509,0.781,0.728,1.94e-06,0.257,-4.981,0.0621,102.99,4
+2,Where Have You Been,Talk That Talk (Deluxe),Rihanna,2012-07-18,242680,14,0.719,0.00201,0.719,0.847,0.0204,0.223,-6.34,0.0916,127.963,4
+3,Rude Boy,Rated R,Rihanna,2009-11-20,222920,13,0.563,0.113,0.563,0.75,0.0,0.0788,-4.496,0.127,173.906,4
+4,S&M,Loud,Rihanna,2010-11-16,243533,73,0.766,0.0113,0.766,0.682,0.00016,0.104,-5.02,0.0419,127.966,4
+5,Needed Me,ANTI,Rihanna,2016-01-28,191600,15,0.671,0.11,0.671,0.314,0.0,0.0825,-8.091,0.244,110.898,4
+6,This Is What You Came For,This Is What You Came For,Calvin Harris,2016-04-29,222160,80,0.63,0.199,0.63,0.928,0.124,0.148,-2.787,0.0331,123.963,4
+7,Wild Thoughts,Wild Thoughts,DJ Khaled,2017-06-16,204664,17,0.613,0.0287,0.613,0.681,0.0,0.126,-3.089,0.0778,97.621,4
+8,What's My Name?,Loud,Rihanna,2010-11-16,263173,69,0.69,0.229,0.69,0.786,0.0,0.0797,-2.959,0.0692,100.049,4
+9,Work,ANTI (Deluxe),Rihanna,2016-01-28,219320,17,0.725,0.0752,0.725,0.534,0.0,0.0919,-6.238,0.0946,91.974,4
+10,We Found Love,Talk That Talk (Deluxe),Rihanna,2012-07-18,215226,20,0.734,0.025,0.734,0.766,0.00138,0.108,-4.485,0.0383,127.986,4
+11,Stay,Unapologetic (Deluxe),Rihanna,2012-12-11,240706,76,0.621,0.945,0.621,0.31,6.12e-05,0.117,-10.164,0.0283,111.893,4
+12,Only Girl (In The World),Loud,Rihanna,2010-11-16,235493,72,0.789,0.13,0.789,0.716,1.09e-05,0.069,-4.241,0.0434,125.91,4
+13,Umbrella,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,275986,17,0.583,0.00864,0.583,0.829,0.0,0.0426,-4.603,0.134,174.028,4
+14,FourFiveSeconds,FourFiveSeconds,Rihanna,2015-01-24,188238,23,0.579,0.868,0.579,0.268,0.0,0.12,-5.65,0.0442,205.903,4
+15,Unfaithful,A Girl Like Me,Rihanna,2006-04-10,224629,15,0.588,0.839,0.588,0.391,0.0,0.195,-8.596,0.0334,144.053,4
+16,Disturbia,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,238626,15,0.707,0.0863,0.707,0.813,0.0,0.168,-4.515,0.0571,124.921,4
+17,"Sledgehammer - From The Motion Picture ""Star Trek Beyond""","Sledgehammer (From The Motion Picture ""Star Trek Beyond"")",Rihanna,2016-06-27,211400,9,0.364,0.495,0.364,0.824,0.0,0.26,-3.099,0.107,131.451,4
+18,Kiss It Better,ANTI,Rihanna,2016-01-28,253080,9,0.619,0.272,0.619,0.806,0.0,0.0671,-4.8,0.0483,95.0,4
+19,Hate That I Love You,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,218946,12,0.637,0.323,0.637,0.73,0.0,0.0981,-5.38,0.0874,93.867,4
+20,Nothing Is Promised,Nothing Is Promised,Mike WiLL Made-It,2016-06-03,170680,7,0.74,0.00739,0.74,0.497,1.27e-06,0.0985,-7.595,0.121,135.148,4
+21,We Ride,A Girl Like Me,Rihanna,2006-04-10,236680,8,0.394,0.00175,0.394,0.744,0.0,0.308,-5.465,0.276,78.696,4
+22,What Now,Unapologetic (Deluxe),Rihanna,2012-12-11,243093,64,0.402,0.0476,0.402,0.696,0.0,0.628,-4.799,0.0448,180.158,3
+23,SOS,A Girl Like Me,Rihanna,2006-04-10,238920,11,0.677,0.004,0.677,0.671,5.07e-05,0.413,-4.905,0.0361,137.046,4
+24,Don't Stop The Music,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,267080,18,0.835,0.0336,0.835,0.669,6.92e-05,0.0535,-5.582,0.0643,122.668,4
+25,Take A Bow,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,229413,12,0.697,0.248,0.697,0.467,0.0,0.0941,-7.536,0.0715,82.081,4
+26,Desperado,ANTI,Rihanna,2016-01-28,186466,8,0.685,0.323,0.685,0.61,0.0,0.102,-5.221,0.0439,94.384,3
+27,Russian Roulette,Rated R,Rihanna,2009-11-20,227533,10,0.48,0.046,0.48,0.486,0.0,0.107,-5.754,0.0447,80.051,4
+28,Rehab,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,294720,9,0.583,0.00321,0.583,0.792,4.92e-05,0.315,-5.894,0.0533,80.055,4
+29,Pon de Replay,Music Of The Sun,Rihanna,2005-08-29,246960,14,0.779,0.000155,0.779,0.64,0.00077,0.101,-8.415,0.159,99.019,4
+30,American Oxygen,American Oxygen,Rihanna,2015-04-14,320161,8,0.232,0.0508,0.232,0.744,0.0,0.266,-6.227,0.114,78.921,4
+31,Right Now,Unapologetic (Deluxe),Rihanna,2012-12-11,181626,63,0.668,0.049,0.668,0.64,0.0,0.0675,-5.208,0.0888,130.004,4
+32,Princess of China - Radio Edit,Princess of China,Coldplay,2012-06-01,217575,60,0.402,0.00171,0.402,0.7,0.00641,0.191,-5.918,0.0361,85.025,4
+33,California King Bed,Loud,Rihanna,2010-11-16,251613,68,0.467,0.218,0.467,0.586,0.0,0.12,-3.942,0.0357,169.93,4
+34,You Da One,Talk That Talk (Deluxe),Rihanna,2012-07-18,200013,8,0.702,0.503,0.702,0.715,2.44e-05,0.126,-5.377,0.0425,127.05,4
+35,Shut Up And Drive,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,212280,9,0.735,0.00101,0.735,0.826,0.129,0.197,-4.902,0.0349,132.964,4

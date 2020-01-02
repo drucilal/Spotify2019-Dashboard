@@ -1,0 +1,68 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,SOS,A Girl Like Me,Rihanna,2006-04-10,238920,11,0.677,0.004,0.677,0.671,5.07e-05,0.413,-4.905,0.0361,137.046,4
+1,Break It Off,The Trinity,Sean Paul,2005-09-26,215600,53,0.899,0.0155,0.899,0.724,0.0,0.0453,-5.757,0.202,133.95,4
+2,Pon de Replay,Music Of The Sun,Rihanna,2005-08-29,246960,14,0.779,0.000155,0.779,0.64,0.00077,0.101,-8.415,0.159,99.019,4
+3,Umbrella,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,275986,17,0.583,0.00864,0.583,0.829,0.0,0.0426,-4.603,0.134,174.028,4
+4,Disturbia,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,238626,15,0.707,0.0863,0.707,0.813,0.0,0.168,-4.515,0.0571,124.921,4
+5,Don't Stop The Music,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,267080,18,0.835,0.0336,0.835,0.669,6.92e-05,0.0535,-5.582,0.0643,122.668,4
+6,Only Girl (In The World),Only Girl (In The World),Rihanna,2010-09-10,235853,8,0.768,0.0524,0.768,0.738,3.01e-05,0.0561,-3.017,0.0406,125.928,4
+7,We Found Love,We Found Love,Rihanna,2011-09-22,215760,13,0.755,0.0225,0.755,0.74,0.00139,0.124,-4.951,0.0407,127.98,4
+8,Where Have You Been,Talk That Talk (Deluxe),Rihanna,2012-07-18,242680,14,0.719,0.00201,0.719,0.847,0.0204,0.223,-6.34,0.0916,127.963,4
+9,This Is What You Came For,This Is What You Came For,Calvin Harris,2016-04-29,222160,80,0.63,0.199,0.63,0.928,0.124,0.148,-2.787,0.0331,123.963,4
+10,Unfaithful,A Girl Like Me,Rihanna,2006-04-10,224629,15,0.588,0.839,0.588,0.391,0.0,0.195,-8.596,0.0334,144.053,4
+11,Take A Bow,Take A Bow,Rihanna,2008-04-15,228933,4,0.707,0.272,0.707,0.508,0.0,0.0858,-5.851,0.0553,81.991,4
+12,Hate That I Love You,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,218946,12,0.637,0.323,0.637,0.73,0.0,0.0981,-5.38,0.0874,93.867,4
+13,What's My Name?,What's My Name?,Rihanna,2010-10-26,264706,0,0.707,0.228,0.707,0.779,0.0,0.0968,-2.937,0.0645,100.031,4
+14,Work,ANTI (Deluxe),Rihanna,2016-01-28,219320,17,0.725,0.0752,0.725,0.534,0.0,0.0919,-6.238,0.0946,91.974,4
+15,Rude Boy,Rude Boy,Rihanna,2010-01-01,223386,46,0.562,0.116,0.562,0.757,0.0,0.103,-4.504,0.152,173.955,4
+16,Man Down,Loud,Rihanna,2010-11-16,267000,70,0.477,0.0437,0.477,0.904,0.0,0.0491,-4.024,0.177,155.781,4
+17,No Love Allowed,Unapologetic,Rihanna,2012-12-11,249133,39,0.583,0.362,0.583,0.482,4.14e-05,0.0938,-9.164,0.0987,90.483,4
+18,Can't Remember to Forget You (feat. Rihanna),Shakira. (Expanded Edition),Shakira,2014-03-14,206866,62,0.694,0.122,0.694,0.81,0.0,0.141,-3.556,0.0661,137.968,4
+19,You Da One,You Da One (Explicit Version),Rihanna,2011-11-15,199933,0,0.703,0.523,0.703,0.71,4.04e-05,0.123,-5.383,0.0502,127.024,4
+20,Raining Men,Loud,Rihanna,2010-11-16,224840,51,0.655,0.015,0.655,0.802,0.0,0.337,-4.818,0.176,157.932,4
+21,Nobody's Business,Unapologetic,Rihanna,2012-12-11,216293,41,0.741,0.0362,0.741,0.6,0.0,0.0562,-5.792,0.0412,109.233,4
+22,Loveeeeeee Song,Unapologetic,Rihanna,2012-12-11,256320,43,0.71,0.508,0.71,0.598,0.0,0.0971,-7.598,0.0319,119.981,4
+23,Needed Me,ANTI,Rihanna,2016-01-28,191600,15,0.671,0.11,0.671,0.314,0.0,0.0825,-8.091,0.244,110.898,4
+24,Pour It Up,Unapologetic (Deluxe),Rihanna,2012-12-11,161200,64,0.785,0.0254,0.785,0.478,0.0,0.0901,-8.735,0.0419,134.002,4
+25,Birthday Cake,Talk That Talk,Rihanna,2011-11-19,78200,0,0.702,0.32,0.702,0.826,0.000227,0.355,-6.498,0.0529,80.014,4
+26,Cockiness (Love It) Remix,Cockiness (Love It) Remix [Explicit Version],Rihanna,2012-09-07,218826,38,0.654,0.00888,0.654,0.617,0.000902,0.0997,-9.935,0.101,124.948,4
+27,Bitch Better Have My Money,Bitch Better Have My Money,Rihanna,2015-03-26,219305,15,0.781,0.0509,0.781,0.728,1.94e-06,0.257,-4.981,0.0621,102.99,4
+28,Nothing Is Promised (with Rihanna),Ransom 2,Mike WiLL Made-It,2017-03-24,170751,0,0.753,0.0096,0.753,0.499,1.41e-06,0.0994,-7.6,0.0976,135.008,4
+29,Consideration,ANTI,Rihanna,2016-01-28,161066,4,0.883,0.0392,0.883,0.584,4.39e-06,0.0869,-2.102,0.0465,144.975,4
+30,Shut Up and Drive - Radio Edit,Shut Up and Drive,Rihanna,2007-06-12,213133,31,0.739,0.000838,0.739,0.823,0.0931,0.217,-4.9,0.0357,132.981,4
+31,S&M Remix,S&M Remix,Rihanna,2011-04-11,257293,2,0.819,0.0609,0.819,0.796,0.0,0.0647,-3.397,0.0546,127.931,4
+32,Breakin' Dishes,Good Girl Gone Bad: Reloaded,Rihanna,2008-06-02,200573,0,0.801,0.000282,0.801,0.674,0.000139,0.0914,-4.185,0.0311,125.009,4
+33,If I Never See Your Face Again - Featuring Rihanna,If I Never See Your Face Again,Maroon 5,2008-01-01,198413,0,0.767,0.00408,0.767,0.807,1.19e-06,0.117,-3.066,0.0389,106.008,4
+34,Princess of China,Mylo Xyloto,Coldplay,2011-10-24,239215,68,0.425,0.00385,0.425,0.69,0.0154,0.287,-6.221,0.0351,84.99,4
+35,Rehab,Rehab (International),Rihanna,2008-10-06,294000,0,0.644,0.00298,0.644,0.787,4.15e-05,0.326,-5.893,0.0429,80.118,4
+36,Take Care,Take Care (Deluxe),Drake,2011-11-15,277386,72,0.629,0.0267,0.629,0.515,1.22e-05,0.0888,-10.358,0.265,121.845,4
+37,Too Good,Views,Drake,2016-05-06,263373,14,0.804,0.0573,0.804,0.648,3.49e-05,0.102,-7.805,0.117,117.983,4
+38,Wild Thoughts (feat. Rihanna & Bryson Tiller),Grateful,DJ Khaled,2017-06-22,204173,75,0.671,0.0329,0.671,0.672,0.0,0.118,-3.094,0.0688,97.98,4
+39,Sex With Me,ANTI (Deluxe),Rihanna,2016-01-28,206400,5,0.58,0.294,0.58,0.532,0.0,0.0948,-5.668,0.0424,112.049,4
+40,Selfish (feat. Rihanna),HNDRXX,Future,2017-08-04,251422,31,0.415,0.0303,0.415,0.369,7.64e-06,0.383,-10.044,0.0741,95.746,4
+41,Live Your Life (feat. Rihanna),Paper Trail,T.I.,2008-09-08,338853,76,0.375,0.071,0.375,0.862,0.0,0.211,-3.363,0.255,159.841,4
+42,All Of The Lights,My Beautiful Dark Twisted Fantasy,Kanye West,2010-01-01,299613,76,0.541,0.0796,0.541,0.803,1.71e-05,0.176,-3.284,0.0738,142.135,4
+43,LOYALTY. FEAT. RIHANNA.,DAMN.,Kendrick Lamar,2017-04-14,227360,6,0.681,0.021,0.681,0.523,0.0,0.178,-8.963,0.0542,110.812,4
+44,Lemon,Lemon,N.E.R.D,2017-11-01,219880,7,0.919,0.00194,0.919,0.73,8.51e-05,0.101,-6.581,0.088,95.044,4
+45,Pose - Deadly Zoo Remix,Pose (Dance Remixes),Rihanna,2017-04-14,176000,30,0.747,0.00392,0.747,0.811,0.00322,0.0887,-4.569,0.0479,90.017,4
+46,Who's That Chick ? (feat. Rihanna),One More Love,David Guetta,2010-11-22,201040,1,0.675,0.00372,0.675,0.601,0.0,0.0458,-4.733,0.116,127.938,4
+47,Right Now,Unapologetic (Deluxe),Rihanna,2012-12-11,181626,63,0.668,0.049,0.668,0.64,0.0,0.0675,-5.208,0.0888,130.004,4
+48,Jump,Unapologetic (Deluxe),Rihanna,2012-12-11,264453,52,0.629,0.229,0.629,0.819,0.00706,0.169,-6.181,0.25,162.048,4
+49,What Now,Unapologetic (Deluxe),Rihanna,2012-12-11,243093,64,0.402,0.0476,0.402,0.696,0.0,0.628,-4.799,0.0448,180.158,3
+50,Love Without Tragedy / Mother Mary,Unapologetic (Deluxe),Rihanna,2012-12-11,418866,49,0.542,0.0747,0.542,0.66,0.0,0.184,-6.467,0.0357,127.891,4
+51,Kiss It Better,ANTI,Rihanna,2016-01-28,253080,9,0.619,0.272,0.619,0.806,0.0,0.0671,-4.8,0.0483,95.0,4
+52,American Oxygen,American Oxygen,Rihanna,2015-04-14,320161,8,0.232,0.0508,0.232,0.744,0.0,0.266,-6.227,0.114,78.921,4
+53,Diamonds,Diamonds,Rihanna,2012-09-27,225200,13,0.553,0.00117,0.553,0.674,0.0,0.16,-6.057,0.045,91.958,4
+54,Russian Roulette,Russian Roulette,Rihanna,2009-10-27,228400,0,0.454,0.0682,0.454,0.457,1.8e-06,0.123,-6.392,0.042,79.996,4
+55,California King Bed,California King Bed,Rihanna,2011-05-13,251666,1,0.469,0.216,0.469,0.596,0.0,0.0858,-3.835,0.0376,169.834,4
+56,The Monster,The Marshall Mathers LP2 (Deluxe),Eminem,2013-11-05,250188,16,0.784,0.0492,0.784,0.85,0.0,0.112,-3.679,0.0691,110.004,4
+57,Love The Way You Lie,Recovery,Eminem,2010-06-18,263373,18,0.746,0.246,0.746,0.922,0.0,0.515,-5.014,0.236,86.961,4
+58,Stay,Unapologetic (Deluxe),Rihanna,2012-12-11,240706,76,0.621,0.945,0.621,0.31,6.12e-05,0.117,-10.164,0.0283,111.893,4
+59,Love On The Brain,ANTI (Deluxe),Rihanna,2016-01-28,224000,18,0.509,0.0717,0.509,0.637,1.08e-05,0.0789,-4.83,0.0471,172.006,3
+60,Higher,ANTI (Deluxe),Rihanna,2016-01-28,120626,1,0.292,0.112,0.292,0.567,1.01e-06,0.119,-4.191,0.0416,153.199,3
+61,FourFiveSeconds,FourFiveSeconds,Rihanna,2015-01-24,188238,23,0.579,0.868,0.579,0.268,0.0,0.12,-5.65,0.0442,205.903,4
+62,Redemption Song - For Haiti Relief (Live From Oprah),Redemption Song [For Haiti Relief (Live From Oprah)],Rihanna,2010-01-27,169906,31,0.398,0.374,0.398,0.428,0.0,0.0938,-9.463,0.0349,111.716,4
+63,P.S. (I'm Still Not Over You),A Girl Like Me,Rihanna,2006-04-10,249906,48,0.759,0.0803,0.759,0.407,0.0,0.104,-8.427,0.0481,88.081,4
+64,"Sledgehammer - From The Motion Picture ""Star Trek Beyond""","Sledgehammer (From The Motion Picture ""Star Trek Beyond"")",Rihanna,2016-06-27,211400,60,0.387,0.489,0.387,0.822,0.0,0.284,-3.071,0.0918,130.825,4
+65,Hate That I Love You - Spanglish Version,Hate That I Love You (Spanglish Version),Rihanna,2007-08-22,221613,40,0.686,0.109,0.686,0.741,0.0,0.0958,-5.35,0.0674,94.02,4
+66,Half Of Me,Unapologetic (Deluxe),Rihanna,2012-12-11,192853,48,0.391,0.214,0.391,0.574,0.0,0.36,-5.912,0.0397,147.435,4
