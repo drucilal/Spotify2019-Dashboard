@@ -13,7 +13,7 @@ Objective:
 
 Tableau Visualization: 
 --
-https://public.tableau.com/profile/drucila#!/vizhome/TopStreamedArtistsoftheDecadePlaylist_Inworks/introduction
+https://public.tableau.com/profile/drucila#!/vizhome/TopStreamedArtistsoftheDecadePlaylist_Inworks/playlist
 
 Audio Features
 ---
